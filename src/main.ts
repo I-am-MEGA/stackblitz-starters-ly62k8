@@ -9,10 +9,7 @@ import 'zone.js';
     <h1>Hello from {{ name }}!</h1>
     <a target="_blank" href="https://angular.dev/overview">
       Learn more about Angular
-      this is a test
     </a>
-    <h1>Hello from {{ name }}!</h1>
-    <h1>Hello from {{ name }}!</h1>
   `,
 })
 export class App {
