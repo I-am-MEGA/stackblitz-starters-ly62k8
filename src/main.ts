@@ -12,6 +12,7 @@ import 'zone.js';
       this is a test
     </a>
     <h1>Hello from {{ name }}!</h1>
+    <h1>Hello from {{ name }}!</h1>
   `,
 })
 export class App {
