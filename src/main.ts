@@ -11,6 +11,7 @@ import 'zone.js';
       Learn more about Angular
       this is a test
     </a>
+    <h1>Hello from {{ name }}!</h1>
   `,
 })
 export class App {
